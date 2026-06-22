@@ -27,3 +27,4 @@ I document how research findings, operational challenges, and structured knowled
 
 - [Kinoto Research](https://www.kinoto-research.jp/)
 - [LinkedIn](https://www.linkedin.com/in/teruyo-t/)
+- [Qiita — Technical articles in Japanese](https://qiita.com/kinoto-r)
